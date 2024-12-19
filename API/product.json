@@ -1,0 +1,67 @@
+[
+    {
+        "id":1,
+        "name":"laptop",
+        "category":"Computer",
+        "brand":"ExampleBrand",
+        "price":999.99,
+        "stock":50,
+        "description" :"powerful laptop with a quad-core i5 processor 8GB RAM,256GBssd",
+        "image":"../images/lapi.png"
+    },
+
+    {
+        "id":2,
+        "name":"Smartphone",
+        "category":"mobile",
+        "brand":"techGadget",
+        "price":499.99,
+        "stock":100,
+        "description" :"phone with high quality 6.2inch 4000mAh battery",
+        "image":"../images/lapi.png"
+    },
+
+    {
+        "id":3,
+        "name":"wireless headphone",
+        "category":"Audio",
+        "brand":"Soundbeats",
+        "price":299.99,
+        "stock":100,
+        "description" :"wireless with high quality 6.2inch 4000mAh battery",
+        "image":""
+    },
+
+    {
+        "id":4,
+        "name":"television",
+        "category":"TV",
+        "brand":"Sony",
+        "price":899.99,
+        "stock":200,
+        "description" :"wireless with high quality 6.2inch 4000mAh battery",
+        "image":"../images/lapi.png"
+    },
+
+    {
+        "id":5,
+        "name":"wireless headphone",
+        "category":"Audio",
+        "brand":"Soundbeats",
+        "price":299.99,
+        "stock":100,
+        "description" :"wireless with high quality 6.2inch 4000mAh battery",
+        "image":"../images/lapi.png"
+    },
+    
+    {
+        "id":6,
+        "name":"television",
+        "category":"vedio",
+        "brand":"samsung",
+        "price":899.99,
+        "stock":100,
+        "description" :"wireless with high quality 6.2inch 4000mAh battery",
+        "image":"../images/lapi.png"
+    }
+]
